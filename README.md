@@ -52,3 +52,7 @@ First, a list of the current pcs:
 
 
 Moreover, I also use a small 5 ports TPlink switch to isolate a little bit this project from the main network. Every computer has a static IP outside the DHCP range, so the DHCP doesn't change the current IP's and break the config.
+
+/FIRST STEP/
+
+For starters I want to set up every agent necessary in the respective computer.
